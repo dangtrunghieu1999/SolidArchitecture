@@ -49,6 +49,7 @@
 		2A78B0842C4BF39000F5334D /* SolidPrincipleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SolidPrincipleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A78B0882C4BF39000F5334D /* SolidPrincipleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolidPrincipleUITests.swift; sourceTree = "<group>"; };
 		2A78B08A2C4BF39000F5334D /* SolidPrincipleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolidPrincipleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A78B0972C4BF45000F5334D /* SingleResponsibility.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SingleResponsibility.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 				2A78B0702C4BF39000F5334D /* Assets.xcassets */,
 				2A78B0722C4BF39000F5334D /* LaunchScreen.storyboard */,
 				2A78B0752C4BF39000F5334D /* Info.plist */,
+				2A78B0972C4BF45000F5334D /* SingleResponsibility.playground */,
 			);
 			path = SolidPrinciple;
 			sourceTree = "<group>";
